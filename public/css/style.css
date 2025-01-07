@@ -1,0 +1,52 @@
+html *{
+    font-family: tanha ,tahoma !important;
+    margin:0;
+  
+}
+@font-face {
+    font-family: "Vazir";
+    src: url("../fonts/Vazir.eot");
+    src: url("../fonts/Vazir.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/Vazir.woff2") format("woff2"),
+      url("../fonts/Vazir.woff") format("woff"),
+      url("../fonts/Vazir.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  h1, h2, h3, h4, h5 {
+   
+    padding: 20px;
+  }
+  a{
+    color:#e2e2e2;
+  }
+  a:active{
+    color:#e2e2e2;
+  }
+ 
+body{
+    margin:0;
+    padding:0;
+    width: 100%;
+    box-sizing: border-box;
+   
+}
+
+.container{
+padding-left: 2rem;
+
+}
+.nav{
+    background-color: blueviolet;
+    width: 100vw;
+    margin-top: 0;
+}
+.blog-content{
+ 
+    padding-left: 1rem;
+    
+    border: 1px solid  #e2e2e2;
+    margin-top:10px;
+}
