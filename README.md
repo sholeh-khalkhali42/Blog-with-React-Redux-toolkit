@@ -36,6 +36,8 @@ src/
 - index.css
 License
 This project is open-source and available under the MIT License.
+
 Contact
+
 Email: sholehkhalkhali100@gmail.com
 LinkedIn: https://www.linkedin.com/in/sholeh-khalkhali
